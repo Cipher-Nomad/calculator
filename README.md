@@ -17,11 +17,10 @@ Welcome to the Google Calculator project! This project replicates the functional
 
 ## Repository
 
-Find the repository for this project on GitHub: [Google Calculator Repository](https://github.com/Cipher-Nomad/calculator){:target="_blank"}
-
+Find the repository for this project on GitHub: <a href="https://github.com/Cipher-Nomad/calculator.git" target="_blank">Google Calculator Repository</a>
 ## Live Demo
 
-Explore the live project: [Google Calculator](https://google-calculator-app.vercel.app/){:target="_blank"}
+Explore the live project: <a href="https://google-calculator-app.vercel.app/" target="_blank">Google Calculator</a>
 
 ## License
 
